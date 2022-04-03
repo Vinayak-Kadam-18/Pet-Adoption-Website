@@ -47,7 +47,19 @@ Start the server
 ```
 
 
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Vinayak-Kadam-18/Pet-Adoption-Website/blob/master/screenshots/1.png?raw=true)
+![App Screenshot](https://github.com/Vinayak-Kadam-18/Pet-Adoption-Website/blob/master/screenshots/2.png?raw=true)
 
+
+## Adopt Page
+![App Screenshot](https://github.com/Vinayak-Kadam-18/Pet-Adoption-Website/blob/master/screenshots/3.png?raw=true)
+
+
+## Pet Details
+![App Screenshot](https://github.com/Vinayak-Kadam-18/Pet-Adoption-Website/blob/master/screenshots/4.png?raw=true)
+
+## Login Page
+![App Screenshot](https://github.com/Vinayak-Kadam-18/Pet-Adoption-Website/blob/master/screenshots/5.png?raw=true)
