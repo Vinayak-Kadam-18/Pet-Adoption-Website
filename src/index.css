@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: 'Helvatica';
+  src: local('Helvatica'), url(./DownlinkBold.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Code';
+  src: local('Code'), url(./CODEBold.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Adam';
+  src: local('Adam'), url(./ADAM.CGPRO.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Ray';
+  src: local('Ray'), url(./RayligAlternatemedium-X3RJj.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'cooper';
+  src: local('cooper'), url(./CooperBlackRegular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Amsterdam';
+  src: local('Amsterdam'), url(./Amsterdam.ttf) format('truetype');
+}
